@@ -1,2 +1,10 @@
 # Papers-Collection
-A collection of interesting papers (summaries and notes might be added later)
+A (running) list of interesting papers (summaries and notes might be added later)
+
+1. [False Confidence Theorem](https://arxiv.org/abs/1706.08565)
+2. [An exposition of the False Confidence Theorem](https://arxiv.org/abs/1807.06217)
+3. [A study of uncertainty quantification in overparametrized high-dimensional models](https://arxiv.org/abs/2210.12760)
+4. [Learning calibrated belief functions from conformal predictions](http://hebergement.universite-paris-saclay.fr/belief2022/Poster/06.pdf)
+5. [Rethinking Confidence Calibration for Failure Prediction](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_30)
+
+

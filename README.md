@@ -6,5 +6,8 @@ A (running) list of interesting papers (summaries and notes might be added later
 3. [A study of uncertainty quantification in overparametrized high-dimensional models](https://arxiv.org/abs/2210.12760)
 4. [Learning calibrated belief functions from conformal predictions](http://hebergement.universite-paris-saclay.fr/belief2022/Poster/06.pdf)
 5. [Rethinking Confidence Calibration for Failure Prediction](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_30)
+6. [Theoretical characterization of uncertainty in high-dimensional linear classification](https://arxiv.org/abs/2202.03295)
+7. [On the Performance of Direct Loss Minimization for Bayesian Neural Networks](https://arxiv.org/abs/2211.08393)
+8. [Bayesian score calibration for approximate models](https://arxiv.org/abs/2211.05357)
 
 
